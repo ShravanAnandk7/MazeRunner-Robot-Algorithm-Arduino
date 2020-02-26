@@ -13,7 +13,7 @@ use *Irrs_codes.ino* for geting analog data and *irrs_min_max.ino* for calibrati
  *Node_checking.ino* can be used with just the sensors and the conditions for detection of nodes can be changed according to your positions the positions i used as shown in *image Sensor_Positions.JPG*, *node_version_2.ino* works with controling the motors as well this code slows down the speed when a node is approaching for better detection.
 
 <p align="center">
-    <br/> <img src="./Sensor_Positions.JPG" width="400" >
+    <img src="./Sensor_Positions.JPG" width="400" >
 </p>
 - **Final Code**
  *Integrated_Code.ino* is the final code for the maze solver robob which consista of the the above functions.
