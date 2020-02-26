@@ -4,7 +4,7 @@ The algorithm detects the various nodes in a maze formed with black lines using 
 
 ## Project Description
 The embeded c code is in Arduino languge and can be directly dumped to any arduino software, also the various modules of codes are presented seperately for better understanding and integrating with other codes of the user
-- **Irrs_codes**
+- **IRRS Sensor Calibration**
  The 6 IR Reflectance Sensors are used which give the intensity of black and white colour
 use *Irrs_codes.ino* for geting analog data and *irrs_min_max.ino* for calibrating the minimum and maximum intensity values which change according to the environment, thus making the robot an adaptable to all lighting conditions.
 - **Solving string path**
